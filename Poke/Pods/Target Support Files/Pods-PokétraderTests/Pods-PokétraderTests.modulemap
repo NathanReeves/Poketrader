@@ -1,0 +1,6 @@
+framework module Pods_Poke_traderTests {
+  umbrella header "Pods-PokétraderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
